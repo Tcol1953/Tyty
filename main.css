@@ -1,0 +1,12 @@
+@charset "utf-8";
+#button {
+    border-style: groove;
+    background-color: #DB080C;
+
+}
+#button2 {
+    border-style: double;
+    background-color: #217231;
+}
+#button3 {
+}
